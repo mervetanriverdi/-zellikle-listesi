@@ -2,3 +2,6 @@ Mesajlaşma
 Sesli Arama  
 Görüntülü Arama  
 Durum Paylaşımı  
+WP kanal oluşturma
+
+
