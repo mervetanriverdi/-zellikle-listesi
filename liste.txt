@@ -1,4 +1,4 @@
-1. Mesajlaşma  
-2. Sesli Arama  
-3. Görüntülü Arama  
-4. Durum Paylaşımı  
+Mesajlaşma  
+Sesli Arama  
+Görüntülü Arama  
+Durum Paylaşımı  
