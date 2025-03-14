@@ -1,6 +1,10 @@
+
+
+2.Sesli Arama  
+3.Görüntülü Arama  
 1.Mesajlaşma  
-2.Sesli Arama    
-3.Durum Paylaşımı  
-4.WP kanal oluşturma
+4.Durum Paylaşımı  
+5.WP kanal oluşturma
+
 
 
